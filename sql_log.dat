@@ -1,0 +1,9 @@
+{BRADLEY GILLS || Santa Clous Is Rockin}
+Starting update at Friday 23rd of December 2016 11:28:58 PM
+Sucessfully Connected!
+SQL Song Exists Query: SELECT id FROM song_list WHERE `artist` = 'BRADLEY GILLS' AND `song` = 'Santa Clous Is Rockin' AND `uid` = 14660;
+Song already in DB
+Found song id: Santa Clous Is Rockin
+Added song to playlist: 39512. Santa Clous Is Rockin
+INSERT INTO playlist(`song_id`, `start_time`) VALUES(39512, UTC_TIMESTAMP());
+Disconnecting

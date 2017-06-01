@@ -1,0 +1,6 @@
+Media types:
+0 - Advertisments
+1 - Music
+2 - Jingles
+3 - On Air Shows
+4 - News
